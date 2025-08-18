@@ -1,6 +1,6 @@
 <h1> Sejam Bem-Vindos ao meu Github</h1>
 
-<h2>Me chamo <strong>Edigar Gonçalves da Silva</strong> e espero que você se sinta em casa vendo minhas postagens.</h2>
+<h2>Me chamo <strong>Edigar Valle Gonçalves</strong> .</h2>
 
 <p>
   Ainda estou iniciando nesse mundo do github, ja programo tem algum tempo e sempre utilizei o gitlab do trabalho para subir os projetos, mas de um tempo pra ca, decidi arrumar algumas coisas, então espero que me ajudem a melhorar cada vez mais ! 
