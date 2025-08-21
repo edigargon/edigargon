@@ -2,8 +2,12 @@
 
 <h2>Me chamo <strong>Edigar Valle Gonçalves</strong> .</h2>
 
-<p>
-  Ainda estou iniciando nesse mundo do github, ja programo tem algum tempo e sempre utilizei o gitlab do trabalho para subir os projetos, mas de um tempo pra ca, decidi arrumar algumas coisas, então espero que me ajudem a melhorar cada vez mais ! 
+<p> 
+  Posto algo aqui sempre que lembro kk 
+
+  Se tiver qualquer ajuda nos meus codigos, será bemv-vindo ! 
+
+  Vamos nos divertir e CODAR.
 </p>
 
 ## Ferramentas e Tecnologias
